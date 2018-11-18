@@ -1,4 +1,3 @@
-
 public class Publisher {
 
 	private final String name;
@@ -20,3 +19,4 @@ public class Publisher {
 	
 	
 }
+
