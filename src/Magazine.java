@@ -12,7 +12,7 @@ public class Magazine extends Book  {
 
 		
 	public Publisher getPublisher() {
-		return publisher;
+		return publisher; 
 	}
 
 

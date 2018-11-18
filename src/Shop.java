@@ -39,7 +39,7 @@ public class Shop {
 	public void displayInfoforEachItem() {
 		
 		for (BookStoreItem item: shopItems) {
-			String.format("%s\n", item);
+			System.out.printf("%s\n", item);
 		}
 	}
 }

@@ -1,5 +1,6 @@
-public class Publisher {
 
+public class Publisher {
+	
 	private final String name;
 	private final String address;
 	
@@ -16,7 +17,5 @@ public class Publisher {
 	public String getAddress() {
 		return address;
 	}
-	
-	
-}
 
+}
